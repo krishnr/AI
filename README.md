@@ -1,5 +1,4 @@
 # Artificial Intelligence
-
 Machine Learning is basically just fancy function approximation.
 
 1. Pre-processing
@@ -22,5 +21,14 @@ Machine Learning is basically just fancy function approximation.
 4. Decision Trees and Random Forests
 5. Fuzzy Systems and Logic
 6. Evolutionary Algorithms
+   1. Genetic Algorithms
 7. Probabilistic Methods
    1. Markov Chains and Models
+   2. Maximum Liklihood and Maximum A Priori 
+8. Ensemble Methods
+   1. Bagging
+   2. Boosting
+   3. Stacking 
+9. Transfer Learning
+10. Bias-Variance Tradeoff
+   1. Regularization 
