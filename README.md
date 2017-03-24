@@ -35,22 +35,22 @@ Machine Learning is basically just fancy function approximation.
 9. Evolutionary Algorithms
    1. Genetic Algorithms
 10. Probabilistic Methods
-   1. Markov Chains and Models
-   2. Maximum Liklihood and Maximum A Priori
-   3. Bayes and Naive Bayes Classifier
-   4. Bayesian Networks
+      1. Markov Chains and Models
+      2. Maximum Liklihood and Maximum A Priori
+      3. Bayes and Naive Bayes Classifier
+      4. Bayesian Networks
 11. Ensemble Methods
-   1. Bagging
-   2. Boosting
-   3. Stacking 
+      1. Bagging
+      2. Boosting
+      3. Stacking 
 12. Transfer Learning
 13. Bias-Variance Tradeoff
-   1. Occam's Razor
-   2. Regularization 
+      1. Occam's Razor
+      2. Regularization 
 14. Philosophy
-   1. Turing Test
-   2. Chinese Room
-   3. Mary's Room
+      1. Turing Test
+      2. Chinese Room
+      3. Mary's Room
 
 
 If you wanna chit-chat about any of this stuff, holla at me @ [m.me/krishnr](http:/m.me/krishnr).
