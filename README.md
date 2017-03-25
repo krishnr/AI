@@ -38,7 +38,7 @@ Machine Learning is basically just fancy function approximation.
    1. Markov Chains and Models
    2. Maximum Liklihood and Maximum A Priori
    3. Bayes and Naive Bayes Classifier
-   4. Bayesian Networks
+   4. Bayesian Belief Networks
 11. Ensemble Methods
    1. Bagging
    2. Boosting
