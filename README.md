@@ -26,6 +26,7 @@ Machine Learning is basically just fancy function approximation.
     8. Data Compression
     9. Linear Discriminant Analysis (LDA)
     10. Singular Value Decomposition (SVD)
+    11. One-Hot Encoding
 3. Feature Analysis
     1. Feature Extraction
     2. VLAD
@@ -100,10 +101,13 @@ Machine Learning is basically just fancy function approximation.
     3. Stacking 
 13. Transfer Learning
 14. Overfitting
-15. 
     1. Bias-Variance Tradeoff
     1. Occam's Razor
     2. Regularization 
+15. Practical Machine Learning
+    1. Keras
+    2. TensorFlow
+    3. Scikit-Learn
 15. Philosophy
     1. Turing Test
     2. Chinese Room
