@@ -1,6 +1,6 @@
 # AI Notes
 
-Everything I know about Artificial Intelligence, Data Science, Machine Learning & Pattern Recognition.
+Everything I know about Artificial Intelligence/Data Science/Machine Learning/Statistical Modeling/Pattern Recognition/whatever you wanna call the contents of this note. The line between all of these is pretty blurry, but they all try to answer the same question: "How can we learn from data?"
 
 Machine Learning is basically just fancy function approximation.
 
@@ -10,14 +10,17 @@ Machine Learning is basically just fancy function approximation.
     3. Linear Algebra
     4. Calculus
     5. Computer Science
+    6. Programming
+        - Python (preferably) or Matlab
     6. Linear Systems and Signals
         - Convolution
-2. History
+2. History (or how we got to now)
     1. Rosenblatt's Perceptrons
 2. Pre-processing
     1. PCA
     2. t-SNE
     3. Dimensionality reduction
+        - Manifold Learning
     4. Cross Validation
         - K-fold CV
         - Leave-One-Out CV
@@ -36,10 +39,11 @@ Machine Learning is basically just fancy function approximation.
     1. Euclidean Measures
     2. Nearest Neighbour
     3. Fisher Condition
-4. Information Theory
+4. Information Theory & Topology
     1. KL Divergence
     2. Entropy
     3. Tangent: Huffman Coding
+    4. Manifold Hypothesis
 4. Regression
     1. Least Squares Regression
     2. Polynomial Regression
@@ -68,6 +72,7 @@ Machine Learning is basically just fancy function approximation.
     3. Activation Functions
     3. CNNs
     4. RNNs
+        - LSTM
     5. Generative Adversarial Networks (GANs)
     6. Restricted Boltzmann Machines (RBMs)
     6. Auto-encoders
@@ -94,10 +99,18 @@ Machine Learning is basically just fancy function approximation.
     4. Bayesian Belief Networks
     5. Hidden Markov Models
 12. Optimization
+    1. Constrained Optimization
+    2. Unconstrained Optimization
+    3. Linear and Quadratic Programming
+    4. Convex Optimization
+    5. Gradient Descent
+    6. Stochastic Gradient Descent
+    4. Adam
 13. Natural Language Processing 
 12. Ensemble Methods
     1. Bagging
     2. Boosting
+        - Adaboost
     3. Stacking 
 13. Transfer Learning
 14. Overfitting
@@ -114,6 +127,8 @@ Machine Learning is basically just fancy function approximation.
     3. Mary's Room
     4. Consciousness
 17. Ethics
+    1. Utilitarianism
+        - Harm Principle
 
 Courses I've Taken:
 - SYDE 522: Machine Intelligence
