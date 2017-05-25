@@ -128,9 +128,13 @@ Machine Learning is basically just fancy function approximation.
     4. Consciousness
 17. Ethics
     1. Utilitarianism
-        - Harm Principle
+        - Harm Principle     
+18. Neuroscience
+    - How the brain works:
+        - https://www.khanacademy.org/science/biology/human-biology#neuron-nervous-system
+        - http://waitbutwhy.com/2017/04/neuralink.html#part2
 
-Courses I've Taken:
+Directly related courses I've taken:
 - SYDE 522: Machine Intelligence
 - SYDE 372: Pattern Recognition
 - Stanford Machine Learning: Andrew Ng
